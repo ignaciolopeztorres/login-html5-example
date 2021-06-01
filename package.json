@@ -1,0 +1,21 @@
+{
+  "name": "plantilla-portafolio-web",
+  "version": "1.0.0",
+  "description": "",
+  "private":"true",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignaciolopeztorres/plantilla-portafolio-web.git"
+  },
+  "keywords": [],
+  "author": "Ignacio Lopez Torres <ignacio.lopeztorres@hotmail.com> (http://ignaciolopeztorres.blogpot.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ignaciolopeztorres/plantilla-portafolio-web/issues"
+  },
+  "homepage": "https://github.com/ignaciolopeztorres/plantilla-portafolio-web#readme"
+}

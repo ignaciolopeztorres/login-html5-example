@@ -1,11 +1,11 @@
 {
   "name": "plantilla-portafolio-web",
   "version": "1.0.0",
-  "description": "",
-  "private":"true",
-  "main": "webpack.config.js",
+  "description": "Web aplication",
+  "private": "true",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/ignaciolopeztorres/plantilla-portafolio-web/issues"
   },
-  "homepage": "https://github.com/ignaciolopeztorres/plantilla-portafolio-web#readme"
+  "homepage": "https://github.com/ignaciolopeztorres/plantilla-portafolio-web#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2"
+  }
 }
